@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Belajar-Java-JUnit-Test.iml" filepath="$PROJECT_DIR$/.idea/Belajar-Java-JUnit-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/belajar-java-unit-test/belajar-java-unit-test.iml" filepath="$PROJECT_DIR$/belajar-java-unit-test/belajar-java-unit-test.iml" />
+    </modules>
+  </component>
+</project>
